@@ -80,7 +80,6 @@ Durante el Sprint 1 se implementaron las bases del sistema, incluyendo la interf
 
 * Editor de código: Visual Studio Code
 * Control de versiones: Git + GitHub
-* Gestión de tareas: (Trello / la que usaron)
 * Entorno de ejecución: Node.js
 * Navegador de pruebas: Google Chrome
 
