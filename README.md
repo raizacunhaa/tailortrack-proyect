@@ -5,8 +5,11 @@
 Instituto Superior Santo Domingo
 
 **Carrera:** Tecnicatura Superior en Desarrollo de Software
+
 **Profesora:** Nadia Gallardo
+
 **Alumnos:**  Micaela Caamaño, Naara Larcher, Raiza Cunha
+
 **Año:** 2025
 
 ---
